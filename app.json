@@ -1,0 +1,10 @@
+{
+  "name": "great-redirect-loop",
+  "description": "The Great Redirect Loop Server",
+  "keywords": [
+    "redirect"
+  ],
+  "website": "https://github.com/hitode909/great-redirect-loop",
+  "repository": "https://github.com/hitode909/great-redirect-loop",
+  "success_url": "/"
+}
